@@ -1,6 +1,6 @@
 # Elm-Counter
 
-A simple (extremely simple) designed to explain how the Elm language works.
+A simple (extremely simple) application designed to explain how the Elm language works and its architecture.
 
 You can find this app on the Try-Elm site listed as one of the beginning examples.
 
